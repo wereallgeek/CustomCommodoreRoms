@@ -14,6 +14,19 @@ https://wereallgeeks.wordpress.com/kernalmod/
 These binary files comes with no warranty whatsoever. What worked for us may not work for you. Geek beware. You are the sole responsible for what happens with your projects.
 https://wereallgeeks.wordpress.com/about/
 
+
+# CBMDOS 
+Custom ROMs seen when we discussed C64 Kernal/Basic alterations
+https://wereallgeeks.wordpress.com/kernalmod/
+
+
+A custom Kernal ROM has been created to mimmic the look of old DOS machines on the C64, as an humoristic hommage to DOS.
+
+
+![DOS colored variant of the C64 kernal text altered to look like DOS](images/cbmdos.png)
+
+Binary files are there: (https://github.com/wereallgeek/CustomCommodoreRoms/tree/main/Commodore64/CBMDOS)
+
 # HandHeld variants of the SX64 Kernal
 Custom ROMs to be used within the handheld project.
 https://wereallgeeks.wordpress.com/uheld64-1/
