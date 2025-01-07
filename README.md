@@ -20,7 +20,7 @@ Custom ROMs seen when we discussed C64 Kernal/Basic alterations
 https://wereallgeeks.wordpress.com/kernalmod/
 
 
-A custom Kernal ROM has been created to mimmic the look of old DOS machines on the C64, as an humoristic hommage to DOS.
+A custom Kernal ROM and a matching BASIC ROM has been created to mimmic the look of old DOS machines on the C64, as an humoristic hommage to DOS.
 
 
 ![DOS colored variant of the C64 kernal text altered to look like DOS](images/cbmdos.png)
